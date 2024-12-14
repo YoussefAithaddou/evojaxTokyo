@@ -219,3 +219,71 @@ SlimeVolley: 2024-12-14 13:03:28,872 [INFO] Loaded model parameters from ./log/s
 SlimeVolley: 2024-12-14 13:03:28,872 [INFO] Start to test the parameters.
 SlimeVolley: 2024-12-14 13:03:29,157 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
 SlimeVolley: 2024-12-14 13:04:57,217 [INFO] GIF saved to ./log/slimevolley\slimevolley.gif.
+SlimeVolley: 2024-12-14 13:08:50,089 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 13:08:50,090 [INFO] ==============================
+SlimeVolley: 2024-12-14 13:08:53,416 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 13:08:53,433 [INFO] Start to train for 500 iterations.
+SlimeVolley: 2024-12-14 13:10:15,778 [INFO] Iter=10, size=128, max=-27.2500, avg=-32.0186, min=-36.0000, std=1.4657
+SlimeVolley: 2024-12-14 13:11:19,664 [INFO] Iter=20, size=128, max=-29.0625, avg=-31.7339, min=-36.4375, std=1.5049
+SlimeVolley: 2024-12-14 13:12:17,796 [INFO] Iter=30, size=128, max=-23.3125, avg=-30.6372, min=-36.2500, std=2.1788
+SlimeVolley: 2024-12-14 13:13:11,809 [INFO] Iter=40, size=128, max=-20.9375, avg=-28.9932, min=-36.0625, std=3.0638
+SlimeVolley: 2024-12-14 13:14:06,366 [INFO] Iter=50, size=128, max=-15.4375, avg=-28.1299, min=-35.2500, std=3.6099
+SlimeVolley: 2024-12-14 13:14:12,868 [INFO] [TEST] Iter=50, #tests=100, max=-3.0000, avg=-4.8700, min=-5.0000, std=0.3648
+SlimeVolley: 2024-12-14 13:15:05,936 [INFO] Iter=60, size=128, max=-17.5625, avg=-27.1772, min=-35.7500, std=3.8742
+SlimeVolley: 2024-12-14 13:15:59,640 [INFO] Iter=70, size=128, max=-12.6250, avg=-25.7393, min=-35.4375, std=4.5712
+SlimeVolley: 2024-12-14 13:16:54,511 [INFO] Iter=80, size=128, max=-12.6875, avg=-24.8174, min=-34.4375, std=4.2076
+SlimeVolley: 2024-12-14 13:17:44,986 [INFO] Iter=90, size=128, max=-13.7500, avg=-24.0415, min=-36.0000, std=4.8879
+SlimeVolley: 2024-12-14 13:18:28,057 [INFO] Iter=100, size=128, max=-13.3125, avg=-22.5161, min=-34.3750, std=4.6675
+SlimeVolley: 2024-12-14 13:18:28,317 [INFO] [TEST] Iter=100, #tests=100, max=-3.0000, avg=-4.7600, min=-5.0000, std=0.4923
+SlimeVolley: 2024-12-14 13:19:20,742 [INFO] Iter=110, size=128, max=-10.1875, avg=-22.5464, min=-33.6875, std=4.4778
+SlimeVolley: 2024-12-14 13:20:14,180 [INFO] Iter=120, size=128, max=-6.8125, avg=-21.8955, min=-33.0000, std=4.7198
+SlimeVolley: 2024-12-14 13:21:02,362 [INFO] Iter=130, size=128, max=-12.1250, avg=-22.7827, min=-35.0000, std=4.9209
+SlimeVolley: 2024-12-14 13:21:56,598 [INFO] Iter=140, size=128, max=-11.0000, avg=-20.9277, min=-31.6875, std=5.0223
+SlimeVolley: 2024-12-14 13:22:50,281 [INFO] Iter=150, size=128, max=-11.5000, avg=-21.0020, min=-33.8125, std=5.3134
+SlimeVolley: 2024-12-14 13:22:50,575 [INFO] [TEST] Iter=150, #tests=100, max=-3.0000, avg=-4.7200, min=-5.0000, std=0.5115
+SlimeVolley: 2024-12-14 13:23:44,295 [INFO] Iter=160, size=128, max=-8.1250, avg=-21.1777, min=-35.0625, std=6.0356
+SlimeVolley: 2024-12-14 13:24:38,684 [INFO] Iter=170, size=128, max=-10.0625, avg=-19.9072, min=-36.0625, std=5.3277
+SlimeVolley: 2024-12-14 13:25:32,404 [INFO] Iter=180, size=128, max=-7.3750, avg=-18.9028, min=-34.5000, std=5.2991
+SlimeVolley: 2024-12-14 13:26:27,850 [INFO] Iter=190, size=128, max=-9.1875, avg=-19.3037, min=-34.1875, std=5.7272
+SlimeVolley: 2024-12-14 13:27:24,108 [INFO] Iter=200, size=128, max=-7.9375, avg=-18.0933, min=-30.9375, std=5.7349
+SlimeVolley: 2024-12-14 13:27:24,432 [INFO] [TEST] Iter=200, #tests=100, max=-2.0000, avg=-4.7200, min=-5.0000, std=0.6177
+SlimeVolley: 2024-12-14 13:28:18,928 [INFO] Iter=210, size=128, max=-7.7500, avg=-17.5479, min=-34.1875, std=5.3320
+SlimeVolley: 2024-12-14 13:29:07,633 [INFO] Iter=220, size=128, max=-6.8125, avg=-17.5859, min=-30.0625, std=5.3874
+SlimeVolley: 2024-12-14 13:30:05,853 [INFO] Iter=230, size=128, max=-5.4375, avg=-16.0713, min=-33.8750, std=6.3193
+SlimeVolley: 2024-12-14 13:31:01,072 [INFO] Iter=240, size=128, max=-4.5625, avg=-15.6094, min=-29.3750, std=6.4056
+SlimeVolley: 2024-12-14 13:31:46,364 [INFO] Iter=250, size=128, max=-2.6875, avg=-15.6450, min=-32.1875, std=6.3632
+SlimeVolley: 2024-12-14 13:31:46,638 [INFO] [TEST] Iter=250, #tests=100, max=1.0000, avg=-1.9200, min=-5.0000, std=1.4945
+SlimeVolley: 2024-12-14 13:32:35,054 [INFO] Iter=260, size=128, max=-2.8750, avg=-14.8428, min=-29.9375, std=6.3965
+SlimeVolley: 2024-12-14 13:33:28,527 [INFO] Iter=270, size=128, max=-1.3750, avg=-13.7769, min=-33.5625, std=6.7756
+SlimeVolley: 2024-12-14 13:34:20,216 [INFO] Iter=280, size=128, max=-2.8125, avg=-14.4185, min=-28.9375, std=6.6281
+SlimeVolley: 2024-12-14 13:35:03,101 [INFO] Iter=290, size=128, max=-0.8750, avg=-15.5254, min=-31.5000, std=7.4678
+SlimeVolley: 2024-12-14 13:35:57,237 [INFO] Iter=300, size=128, max=-1.1250, avg=-13.2744, min=-29.4375, std=7.2592
+SlimeVolley: 2024-12-14 13:35:57,516 [INFO] [TEST] Iter=300, #tests=100, max=3.0000, avg=0.2400, min=-2.0000, std=0.8732
+SlimeVolley: 2024-12-14 13:37:01,070 [INFO] Iter=310, size=128, max=-0.6875, avg=-13.5356, min=-32.0000, std=7.2375
+SlimeVolley: 2024-12-14 13:38:00,876 [INFO] Iter=320, size=128, max=0.0625, avg=-11.7988, min=-29.0000, std=6.9885
+SlimeVolley: 2024-12-14 13:38:56,953 [INFO] Iter=330, size=128, max=-0.8750, avg=-13.5557, min=-31.4375, std=7.1169
+SlimeVolley: 2024-12-14 13:39:53,523 [INFO] Iter=340, size=128, max=-0.9375, avg=-11.1797, min=-29.8125, std=7.0852
+SlimeVolley: 2024-12-14 13:40:49,784 [INFO] Iter=350, size=128, max=-1.1875, avg=-10.8970, min=-29.1875, std=6.0651
+SlimeVolley: 2024-12-14 13:40:50,080 [INFO] [TEST] Iter=350, #tests=100, max=3.0000, avg=0.0000, min=-2.0000, std=0.8602
+SlimeVolley: 2024-12-14 13:41:49,634 [INFO] Iter=360, size=128, max=-1.0000, avg=-10.2715, min=-28.5000, std=7.0271
+SlimeVolley: 2024-12-14 13:42:45,795 [INFO] Iter=370, size=128, max=-0.3125, avg=-10.0376, min=-28.0625, std=6.5605
+SlimeVolley: 2024-12-14 13:43:41,073 [INFO] Iter=380, size=128, max=-0.0625, avg=-10.4883, min=-26.6875, std=6.4401
+SlimeVolley: 2024-12-14 13:44:34,550 [INFO] Iter=390, size=128, max=0.2500, avg=-9.1807, min=-24.8125, std=6.1405
+SlimeVolley: 2024-12-14 13:45:22,419 [INFO] Iter=400, size=128, max=0.4375, avg=-7.8716, min=-26.1250, std=6.3452
+SlimeVolley: 2024-12-14 13:45:22,681 [INFO] [TEST] Iter=400, #tests=100, max=4.0000, avg=0.5300, min=-1.0000, std=0.8655
+SlimeVolley: 2024-12-14 13:46:06,146 [INFO] Iter=410, size=128, max=0.1875, avg=-7.9575, min=-25.6875, std=5.7700
+SlimeVolley: 2024-12-14 13:46:49,939 [INFO] Iter=420, size=128, max=-0.1250, avg=-7.2925, min=-23.6250, std=5.3239
+SlimeVolley: 2024-12-14 13:47:33,138 [INFO] Iter=430, size=128, max=0.3750, avg=-5.9663, min=-21.0625, std=5.2569
+SlimeVolley: 2024-12-14 13:48:16,744 [INFO] Iter=440, size=128, max=0.0625, avg=-5.9248, min=-23.2500, std=5.0156
+SlimeVolley: 2024-12-14 13:49:01,834 [INFO] Iter=450, size=128, max=0.3125, avg=-6.8271, min=-26.5625, std=6.0145
+SlimeVolley: 2024-12-14 13:49:02,166 [INFO] [TEST] Iter=450, #tests=100, max=3.0000, avg=0.3600, min=-2.0000, std=0.7283
+SlimeVolley: 2024-12-14 13:50:06,402 [INFO] Iter=460, size=128, max=0.1250, avg=-6.5029, min=-24.7500, std=5.3809
+SlimeVolley: 2024-12-14 13:51:03,311 [INFO] Iter=470, size=128, max=0.5000, avg=-5.3125, min=-24.7500, std=4.7289
+SlimeVolley: 2024-12-14 13:51:58,949 [INFO] Iter=480, size=128, max=0.6250, avg=-5.1382, min=-19.2500, std=4.6297
+SlimeVolley: 2024-12-14 13:52:56,839 [INFO] Iter=490, size=128, max=0.3125, avg=-4.7959, min=-20.8750, std=4.2478
+SlimeVolley: 2024-12-14 13:53:50,014 [INFO] [TEST] Iter=500, #tests=100, max=3.0000, avg=0.3100, min=-1.0000, std=0.7169
+SlimeVolley: 2024-12-14 13:53:50,015 [INFO] Training done, best_score=0.5300
+SlimeVolley: 2024-12-14 13:53:50,048 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 13:53:50,048 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 13:53:50,370 [INFO] [TEST] #tests=100, max=3.0000, avg=0.2700, min=-2.0000, std=0.7597
+SlimeVolley: 2024-12-14 13:55:47,357 [INFO] GIF saved to ./log/slimevolley\slimevolley.gif.

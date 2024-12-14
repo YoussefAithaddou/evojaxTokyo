@@ -753,14 +753,20 @@ class Game:
         return result
 
     def display(self):
+        print("1")
         canvas = create_canvas(c=BACKGROUND_COLOR)
+        print("2")
         canvas = self.fence.display(canvas)
+        print("3")
         canvas = self.fenceStub.display(canvas)
+        print("4")
         canvas = self.agent_left.display(canvas, self.ball.p.x, self.ball.p.y)
         canvas = self.agent_right.display(
             canvas, self.ball.p.x, self.ball.p.y)
+        print("5")
         canvas = self.ball.display(canvas)
         canvas = self.ground.display(canvas)
+        print("6")
         canvas = downsize_image(canvas)
         # canvas = upsize_image(canvas)  # removed to save memory for render.
         return canvas

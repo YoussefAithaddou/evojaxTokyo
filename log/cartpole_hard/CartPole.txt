@@ -1,0 +1,32 @@
+CartPole: 2024-12-14 11:44:27,845 [INFO] EvoJAX CartPole (hard) Demo
+CartPole: 2024-12-14 11:44:27,846 [INFO] ==============================
+CartPole: 2024-12-14 11:44:47,639 [INFO] EvoJAX CartPole (hard) Demo
+CartPole: 2024-12-14 11:44:47,639 [INFO] ==============================
+CartPole: 2024-12-14 11:44:59,590 [INFO] use_for_loop=False
+CartPole: 2024-12-14 11:44:59,609 [INFO] Start to train for 10 iterations.
+CartPole: 2024-12-14 11:45:42,416 [INFO] [TEST] Iter=10, #tests=100, max=371.3587, avg=193.3399, min=0.0003, std=136.3738
+CartPole: 2024-12-14 11:45:42,430 [INFO] Training done, best_score=193.3399
+CartPole: 2024-12-14 11:45:42,472 [INFO] Loaded model parameters from ./log/cartpole_hard.
+CartPole: 2024-12-14 11:45:42,472 [INFO] Start to test the parameters.
+CartPole: 2024-12-14 11:45:42,605 [INFO] [TEST] #tests=100, max=347.5627, avg=186.7815, min=-0.0004, std=128.8525
+CartPole: 2024-12-14 11:45:46,385 [INFO] GIF saved to ./log/cartpole_hard\cartpole_hard.gif
+CartPole: 2024-12-14 11:47:07,133 [INFO] EvoJAX CartPole (hard) Demo
+CartPole: 2024-12-14 11:47:07,134 [INFO] ==============================
+CartPole: 2024-12-14 11:47:19,128 [INFO] use_for_loop=False
+CartPole: 2024-12-14 11:47:19,153 [INFO] Start to train for 10 iterations.
+CartPole: 2024-12-14 11:48:17,501 [INFO] [TEST] Iter=10, #tests=100, max=371.3587, avg=193.3399, min=0.0003, std=136.3738
+CartPole: 2024-12-14 11:48:17,518 [INFO] Training done, best_score=193.3399
+CartPole: 2024-12-14 11:48:17,552 [INFO] Loaded model parameters from ./log/cartpole_hard.
+CartPole: 2024-12-14 11:48:17,554 [INFO] Start to test the parameters.
+CartPole: 2024-12-14 11:48:17,689 [INFO] [TEST] #tests=100, max=347.5627, avg=186.7815, min=-0.0004, std=128.8525
+CartPole: 2024-12-14 11:48:21,611 [INFO] GIF saved to ./log/cartpole_hard\cartpole_hard.gif
+CartPole: 2024-12-14 12:22:38,943 [INFO] EvoJAX CartPole (hard) Demo
+CartPole: 2024-12-14 12:22:38,944 [INFO] ==============================
+CartPole: 2024-12-14 12:22:50,520 [INFO] use_for_loop=False
+CartPole: 2024-12-14 12:22:50,535 [INFO] Start to train for 10 iterations.
+CartPole: 2024-12-14 12:23:39,099 [INFO] [TEST] Iter=10, #tests=100, max=371.3587, avg=193.3399, min=0.0003, std=136.3738
+CartPole: 2024-12-14 12:23:39,114 [INFO] Training done, best_score=193.3399
+CartPole: 2024-12-14 12:23:39,150 [INFO] Loaded model parameters from ./log/cartpole_hard.
+CartPole: 2024-12-14 12:23:39,151 [INFO] Start to test the parameters.
+CartPole: 2024-12-14 12:23:39,289 [INFO] [TEST] #tests=100, max=347.5627, avg=186.7815, min=-0.0004, std=128.8525
+CartPole: 2024-12-14 12:23:44,038 [INFO] GIF saved to ./log/cartpole_hard\cartpole_hard.gif

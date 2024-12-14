@@ -54,7 +54,7 @@ def parse_args():
     parser.add_argument(
         '--n-repeats', type=int, default=16, help='Training repetitions.')
     parser.add_argument(
-        '--max-iter', type=int, default=1000, help='Max training iterations.')
+        '--max-iter', type=int, default=10, help='Max training iterations.')
     parser.add_argument(
         '--test-interval', type=int, default=100, help='Test interval.')
     parser.add_argument(
@@ -170,6 +170,7 @@ def main(config):
     task_s = task_reset_fn(rollout_key)
     policy_s = policy_reset_fn(task_s)
     images.append(CartPoleSwingUp.render(task_s, 0))
+    print(task_s)
     done = False
     step = 0
     while not done:

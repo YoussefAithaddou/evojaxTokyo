@@ -1,40 +1,3 @@
-# Copyright 2022 The EvoJAX Authors.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
-"""Train an agent to solve the SlimeVolley task.
-
-Slime Volleyball is a game created in the early 2000s by unknown author.
-
-The game is very simple: the agent's goal is to get the ball to land on
-the ground of its opponent's side, causing its opponent to lose a life.
-
-Each agent starts off with five lives. The episode ends when either agent
-loses all five lives, or after 3000 timesteps has passed. An agent receives
-a reward of +1 when its opponent loses or -1 when it loses a life.
-
-An agent loses when it loses 5 times in the Test environment, or if it
-loses based on score count after 3000 time steps.
-
-During Training, the game is simply played for 3000 time steps, not
-terminating even when one player loses 5 times.
-
-This task is based on:
-https://otoro.net/slimevolley/
-https://github.com/hardmaru/slimevolleygym
-
-Example command to run this script: `python train_slimevolley.py --gpu-id=0`
-"""
 
 import argparse
 import os
@@ -59,7 +22,7 @@ def parse_args():
     parser.add_argument(
         '--n-repeats', type=int, default=16, help='Training repetitions.')
     parser.add_argument(
-        '--max-iter', type=int, default=5, help='Max training iterations.')
+        '--max-iter', type=int, default=500, help='Max training iterations.')
     parser.add_argument(
         '--test-interval', type=int, default=50, help='Test interval.')
     parser.add_argument(

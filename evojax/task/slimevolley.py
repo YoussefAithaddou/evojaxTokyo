@@ -55,6 +55,7 @@ from PIL import Image
 
 # game settings:
 
+
 RENDER_MODE = True
 
 REF_W = 24*2
@@ -84,7 +85,6 @@ PIXEL_SCALE = 2  # Render at multiple of Pixel Obs resolution, then downscale.
 
 PIXEL_WIDTH = 84*2*2
 PIXEL_HEIGHT = 84*2
-
 
 def setNightColors():
     # night time color:
@@ -249,6 +249,7 @@ class ParticleState(object):
 
 
 def initParticleState(x, y, vx, vy, r):
+    
     return ParticleState(jnp.float32(x), jnp.float32(y),
                          jnp.float32(x), jnp.float32(y),
                          jnp.float32(vx), jnp.float32(vy),
@@ -335,8 +336,11 @@ class Particle:
         self.c = c
 
     def display(self, canvas):
-        return circle(canvas, toX(float(self.p.x)), toY(float(self.p.y)),
-                      toP(float(self.p.r)), color=self.c)
+        return circle(canvas, 
+       toX(float(self.p.x[0]) if getattr(self.p.x, "ndim", 0) > 0 else float(self.p.x)), 
+       toY(float(self.p.y[0]) if getattr(self.p.y, "ndim", 0) > 0 else float(self.p.y)),
+       toP(float(self.p.r[0]) if getattr(self.p.r, "ndim", 0) > 0 else float(self.p.r)), 
+       color=self.c)
 
     def move(self):
         self.p = ParticleState(self.p.x+self.p.vx*TIMESTEP,
@@ -591,13 +595,13 @@ class Agent:
         return getObsArray(self.state)
 
     def display(self, canvas, ball_x, ball_y):
-        bx = float(ball_x)
-        by = float(ball_y)
+        bx = float(ball_x[0])
+        by = float(ball_y[0])
         p = self.p
-        x = float(p.x)
-        y = float(p.y)
-        r = float(p.r)
-        direction = int(p.direction)
+        x = float(p.x[0])
+        y = float(p.y[0])
+        r = float(p.r[0])
+        direction = int(p.direction[0])
 
         angle = math.pi * 60 / 180
         if direction == 1:
@@ -624,7 +628,7 @@ class Agent:
                         color=(0, 0, 0))
 
         # draw coins (lives) left
-        num_lives = int(p.life)
+        num_lives = int(p.life[0])
         for i in range(1, num_lives):
             canvas = circle(canvas, toX(direction*(REF_W/2+0.5-i*2.)),
                             WINDOW_HEIGHT-toY(1.5), toP(0.5),
@@ -753,20 +757,14 @@ class Game:
         return result
 
     def display(self):
-        print("1")
         canvas = create_canvas(c=BACKGROUND_COLOR)
-        print("2")
         canvas = self.fence.display(canvas)
-        print("3")
         canvas = self.fenceStub.display(canvas)
-        print("4")
         canvas = self.agent_left.display(canvas, self.ball.p.x, self.ball.p.y)
         canvas = self.agent_right.display(
             canvas, self.ball.p.x, self.ball.p.y)
-        print("5")
         canvas = self.ball.display(canvas)
         canvas = self.ground.display(canvas)
-        print("6")
         canvas = downsize_image(canvas)
         # canvas = upsize_image(canvas)  # removed to save memory for render.
         return canvas

@@ -1,0 +1,221 @@
+SlimeVolley: 2024-12-14 01:17:46,321 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 01:17:46,322 [INFO] ==============================
+SlimeVolley: 2024-12-14 01:17:48,986 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 01:17:49,001 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 01:18:20,195 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 01:18:20,215 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 01:18:20,226 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 01:18:20,228 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 01:18:20,563 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 01:20:06,904 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 01:20:06,906 [INFO] ==============================
+SlimeVolley: 2024-12-14 01:20:09,583 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 01:20:09,605 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 01:22:46,651 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 01:22:46,652 [INFO] ==============================
+SlimeVolley: 2024-12-14 01:22:49,474 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 01:22:49,487 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 01:23:21,822 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 01:23:21,842 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 01:23:21,850 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 01:23:21,850 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 01:23:22,162 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 01:24:46,864 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 01:24:46,865 [INFO] ==============================
+SlimeVolley: 2024-12-14 01:24:50,507 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 01:24:50,540 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 01:25:30,126 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 01:25:30,141 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 01:25:30,147 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 01:25:30,147 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 01:25:30,435 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 01:31:14,701 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 01:31:14,702 [INFO] ==============================
+SlimeVolley: 2024-12-14 01:31:17,615 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 01:31:17,632 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 01:31:50,657 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 01:31:50,671 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 01:31:50,679 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 01:31:50,680 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 01:31:50,960 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 01:35:31,968 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 01:35:31,969 [INFO] ==============================
+SlimeVolley: 2024-12-14 01:35:34,935 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 01:35:34,950 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 01:36:09,653 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 01:36:09,667 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 01:36:09,675 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 01:36:09,675 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 01:36:09,952 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 01:37:09,409 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 01:37:09,410 [INFO] ==============================
+SlimeVolley: 2024-12-14 01:37:12,416 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 01:37:12,431 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 01:37:44,244 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 01:37:44,259 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 01:37:44,264 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 01:37:44,264 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 01:37:44,546 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 11:11:31,570 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 11:11:31,570 [INFO] ==============================
+SlimeVolley: 2024-12-14 11:11:34,229 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 11:11:34,243 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 11:12:11,445 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 11:12:11,465 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 11:12:11,471 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 11:12:11,472 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 11:12:11,771 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 11:16:35,663 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 11:16:35,663 [INFO] ==============================
+SlimeVolley: 2024-12-14 11:16:38,227 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 11:16:38,246 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 11:17:09,179 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 11:17:09,193 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 11:17:09,201 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 11:17:09,201 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 11:17:09,481 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 11:24:48,435 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 11:24:48,436 [INFO] ==============================
+SlimeVolley: 2024-12-14 11:24:50,565 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 11:24:50,582 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 11:25:21,892 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 11:25:21,905 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 11:25:21,913 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 11:25:21,913 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 11:25:22,177 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 11:26:07,197 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 11:26:07,197 [INFO] ==============================
+SlimeVolley: 2024-12-14 11:26:09,315 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 11:26:09,330 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 11:26:46,593 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 11:26:46,608 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 11:26:46,614 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 11:26:46,616 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 11:26:46,895 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 11:31:38,062 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 11:31:38,062 [INFO] ==============================
+SlimeVolley: 2024-12-14 11:31:40,083 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 11:31:40,099 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 11:32:12,850 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 11:32:12,864 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 11:32:12,871 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 11:32:12,871 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 11:32:13,143 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 11:40:33,183 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 11:40:33,184 [INFO] ==============================
+SlimeVolley: 2024-12-14 11:40:35,232 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 11:40:35,248 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 11:41:10,697 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 11:41:10,713 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 11:41:10,719 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 11:41:10,720 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 11:41:11,034 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 11:49:26,612 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 11:49:26,613 [INFO] ==============================
+SlimeVolley: 2024-12-14 11:49:28,746 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 11:49:28,761 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 11:50:08,299 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 11:50:08,316 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 11:50:08,323 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 11:50:08,325 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 11:50:08,603 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:10:33,860 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:10:33,860 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:10:35,754 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:10:35,768 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:11:07,688 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:11:07,703 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:11:07,708 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:11:07,709 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:11:07,980 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:24:26,476 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:24:26,476 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:24:28,636 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:24:28,653 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:25:06,318 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:25:06,335 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:25:06,343 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:25:06,343 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:25:06,664 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:28:09,205 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:28:09,205 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:28:11,349 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:28:11,365 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:28:44,653 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:28:44,667 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:28:44,674 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:28:44,675 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:28:44,951 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:32:09,167 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:32:09,168 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:32:11,206 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:32:11,221 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:32:43,269 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:32:43,285 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:32:43,291 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:32:43,291 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:32:43,563 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:36:11,551 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:36:11,551 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:36:13,770 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:36:13,789 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:36:51,338 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:36:51,360 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:36:51,368 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:36:51,368 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:36:51,686 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:39:00,693 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:39:00,695 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:39:03,223 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:39:03,239 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:39:45,570 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:39:45,589 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:39:45,596 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:39:45,596 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:39:45,895 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:40:51,367 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:40:51,368 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:40:53,747 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:40:53,764 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:41:30,857 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:41:30,872 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:41:30,879 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:41:30,880 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:41:31,173 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:46:23,993 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:46:23,994 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:46:26,532 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:46:26,555 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:46:58,382 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:46:58,398 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:46:58,404 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:46:58,405 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:46:58,691 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:51:52,776 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:51:52,777 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:51:54,866 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:51:54,881 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:52:35,090 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:52:35,107 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:52:35,114 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:52:35,114 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:52:35,414 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 12:55:53,533 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 12:55:53,533 [INFO] ==============================
+SlimeVolley: 2024-12-14 12:55:55,781 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 12:55:55,798 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 12:56:44,919 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 12:56:44,938 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 12:56:44,944 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 12:56:44,944 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 12:56:45,232 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 13:02:35,093 [INFO] EvoJAX SlimeVolley
+SlimeVolley: 2024-12-14 13:02:35,094 [INFO] ==============================
+SlimeVolley: 2024-12-14 13:02:37,348 [INFO] use_for_loop=False
+SlimeVolley: 2024-12-14 13:02:37,365 [INFO] Start to train for 5 iterations.
+SlimeVolley: 2024-12-14 13:03:28,850 [INFO] [TEST] Iter=5, #tests=100, max=-3.0000, avg=-4.9000, min=-5.0000, std=0.3317
+SlimeVolley: 2024-12-14 13:03:28,865 [INFO] Training done, best_score=-4.9000
+SlimeVolley: 2024-12-14 13:03:28,872 [INFO] Loaded model parameters from ./log/slimevolley.
+SlimeVolley: 2024-12-14 13:03:28,872 [INFO] Start to test the parameters.
+SlimeVolley: 2024-12-14 13:03:29,157 [INFO] [TEST] #tests=100, max=-2.0000, avg=-4.8700, min=-5.0000, std=0.4394
+SlimeVolley: 2024-12-14 13:04:57,217 [INFO] GIF saved to ./log/slimevolley\slimevolley.gif.
